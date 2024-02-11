@@ -1,0 +1,3 @@
+[submodule "libs/secret"]
+	path = libs/secret
+	url = https://github.com/amatyrain/secret-handler.git

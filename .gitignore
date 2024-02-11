@@ -1,0 +1,11 @@
+**/local_*.py
+lib/**
+!lib/.gitkeep
+**/__pycache__
+.DS_Store
+*.egg-info
+.cache
+local/*
+!local/.gitkeep
+*.code-workspace
+.vscode
